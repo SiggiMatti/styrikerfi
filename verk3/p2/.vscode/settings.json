@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.Rmd": "bat",
+        "scheduler.h": "c"
+    }
+}
